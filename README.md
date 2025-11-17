@@ -24,16 +24,17 @@ Cada lección incluye un video (enlace pendiente), una descripción y una práct
 
 | Nº | Tema | Descripción | 🎥 Video |
 |---|------|-------------|----------|
-| 1 |  Introducción a Java | ¿Qué es Java? ¿Por qué usarlo? Primer programa. | [Ver Video]() |
-| 2 |  Sintaxis Básica | Variables, tipos de datos y estructura del programa. | [Ver Video]() |
-| 3 |  Operadores y Expresiones | Aritméticos, lógicos y relacionales. | [Ver Video]() |
-| 4 |  Estructuras de Control | If-else, switch, bucles for/while. | [Ver Video]() |
-| 5 |  Métodos y Parámetros | Declaración de métodos, retorno, buenas prácticas. | [Ver Video]() |
-| 6 |  Entrada/Salida | Uso de Scanner y lectura desde consola. | [Ver Video]() |
-| 7 |  Introducción a la POO | Atributos, comportamientos, constructores. | [Ver Video]() |
-| 8 |  Principios básicos de POO | Encapsulacion, getters, setters y uso de `private`. | [Ver Video]() |
-| 9 |  Arrays y Cadenas | Uso de estructuras simples dentro de clases. | [Ver Video]() |
-| 10 |  Miniproyecto | Aplicación final con POO. | [Ver Video]() |
+| 1 |  Introducción a Java | ¿Qué es Java? ¿Por qué usarlo? Primer programa. | [Ver Video](https://youtu.be/lW_Q5Qprj_o) |
+| 2 |  Sintaxis Básica | Variables, tipos de datos y estructura del programa. | [Ver Video](https://youtu.be/M1nx5XyuMG0) |
+| 3 |  Operadores y Expresiones | Aritméticos, lógicos y relacionales. | [Ver Video](https://youtu.be/Y1rTOpHCgfo) |
+| 4 |  Estructuras de Control | If-else, switch, bucles for/while. | [Ver Video](https://youtu.be/objp_7gCzsI) |
+| 5 |  Métodos y Parámetros | Declaración de métodos, retorno, buenas prácticas. | [Ver Video](https://youtu.be/5T3dJZax3D4) |
+| 6 |  Entrada/Salida | Uso de Scanner y lectura desde consola. | [Ver Video](https://youtu.be/ogBL7Oya0VE) |
+| 7 |  Introducción a la POO | Atributos, comportamientos, constructores. | [Ver Video](https://youtu.be/vXaH55684Zg) |
+| 8 |  Principios básicos de POO | Encapsulacion, getters, setters y uso de `private`. | [Ver Video](https://youtu.be/vInP84VNuJo) |
+| 10 |  Arrays y Cadenas | Uso de estructuras simples dentro de clases. | [Ver Video](https://youtu.be/G2E4PWDFcWk) |
+| 11 |  Miniproyecto | Aplicación final con POO. | [Ver Video]() |
+| 12 |  Mejores Prácticas | Limpieza de código y errores comunes. | [Ver Video]() |
 
 ---
 
