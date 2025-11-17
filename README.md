@@ -33,7 +33,7 @@ Cada lección incluye un video (enlace pendiente), una descripción y una práct
 | 7 |  Introducción a la POO | Atributos, comportamientos, constructores. | [https://youtu.be/vXaH55684Zg](https://youtu.be/vXaH55684Zg) |
 | 8 |  Principios básicos de POO | Encapsulacion, getters, setters y uso de `private`. | [https://youtu.be/vInP84VNuJo](https://youtu.be/vInP84VNuJo) |
 | 9 |  Arrays y Cadenas | Uso de estructuras simples dentro de clases. | [https://youtu.be/G2E4PWDFcWk](https://youtu.be/G2E4PWDFcWk) |
-| 10 |  Miniproyecto | Aplicación final con POO. | [Ver Video]() |
+| 10 |  Miniproyecto | Aplicación final con POO. | [https://youtu.be/CSt8THqHxpg](https://youtu.be/CSt8THqHxpg) |
 ---
 
 # 🗂️ Repositorio del Proyecto
