@@ -86,7 +86,7 @@ Se enseña a declarar, inicializar y asignar valores.
 ---
 
 ## 3.  Operadores y Expresiones  
-**⏱️ Duración:** 10 minutos  
+**⏱️ Duración:** 08 - 09 minutos  
 
 ### 📝 Descripción  
 Se enseñan los diferentes operadores en Java:  
@@ -252,29 +252,6 @@ Ejemplos del mundo real:
 - Se puede combinar POO con arrays.  
 - `String` tiene métodos útiles como `.length()` y `.toUpperCase()`.  
 - Ideal para manejar listas o colecciones simples.
-
-### 💻 **Práctica**  
-👉 Editor: https://www.onlinegdb.com/
-
----
-
-## 10. Miniproyecto Final  
-**⏱️ Duración:** 15–20 minutos  
-
-### 📝 Descripción  
-El estudiante aplicará todo lo aprendido creando un proyecto simple basado en POO.  
-Ejemplos:  
-- Registro de Estudiantes  
-- Juego básico: adivina el número  
-- Sistema de tareas personales con objetos  
-
-El objetivo no es complejidad, sino integración de:  
-Clases • Objetos • Métodos • Encapsulación • Arrays • Entrada/Salida
-
-### 🎯 Conclusiones Clave  
-- Un programa completo combina múltiples conceptos.  
-- POO simplifica el diseño.  
-- La organización del código importa más que la complejidad.
 
 ### 💻 **Práctica**  
 👉 Editor: https://www.onlinegdb.com/
