@@ -110,7 +110,7 @@ También se explica la precedencia de operadores, como en matemáticas.
 ---
 
 ## 4. 🔁 Estructuras de Control  
-**⏱️ Duración:** 10–12 minutos  
+**⏱️ Duración:** 07–08 minutos  
 
 ### 📝 Descripción  
 Las estructuras de control permiten decidir qué partes del código se ejecutan.  
@@ -134,7 +134,7 @@ Ejemplos visuales:
 ---
 
 ## 5. 🔧 Métodos y Parámetros  
-**⏱️ Duración:** 12–14 minutos  
+**⏱️ Duración:** 09–10 minutos  
 
 ### 📝 Descripción  
 Se explica qué es un método: una acción o función del programa.  
