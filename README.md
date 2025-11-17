@@ -64,7 +64,7 @@ También se introduce el primer programa “Hola Mundo” usando un editor onlin
 - Un programa imprime mensajes en pantalla usando `System.out.println()`.
 
 ###  **Empieza a programar**  
-👉 Editor: **[OnlineGDB]()**
+👉 Editor: https://www.onlinegdb.com/
 
 ---
 
@@ -83,7 +83,7 @@ Se enseña a declarar, inicializar y asignar valores.
 - Las llaves `{}` organizan el código en bloques.
 
 ### 💻 **Práctica**  
-👉 Editor: **[OnlineGDB]()**
+👉 Editor: https://www.onlinegdb.com/
 
 ---
 
@@ -105,7 +105,7 @@ También se explica la precedencia de operadores, como en matemáticas.
 - Los lógicos permiten construir decisiones más complejas.
 
 ### 💻 **Práctica**  
-👉 Editor: **[OnlineGDB]()**
+👉 Editor: https://www.onlinegdb.com/
 
 ---
 
@@ -129,7 +129,7 @@ Ejemplos visuales:
 - Los booleanos controlan el flujo del programa.
 
 ### 💻 **Práctica**  
-👉 Editor: **[OnlineGDB]()**
+👉 Editor: https://www.onlinegdb.com/
 
 ---
 
@@ -155,7 +155,7 @@ Ejemplo cotidiano:
 - Código limpio = métodos cortos y con una sola función.
 
 ### 💻 **Práctica**  
-👉 Editor: **[OnlineGDB]()**
+👉 Editor: https://www.onlinegdb.com/
 
 ---
 
@@ -178,7 +178,7 @@ Se explica:
 - La consola permite comunicarte con el usuario.
 
 ### 💻 **Práctica**  
-👉 Editor: **[OnlineGDB]()**
+👉 Editor: https://www.onlinegdb.com/
 
 ---
 
@@ -204,7 +204,7 @@ Ejemplos cotidianos:
 - Los métodos describen el comportamiento del objeto.
 
 ### 💻 **Práctica**  
-👉 Editor: **[OnlineGDB]()**
+👉 Editor: https://www.onlinegdb.com/
 
 ---
 
@@ -230,7 +230,7 @@ Ejemplo del mundo real:
 - Mejora la seguridad y estabilidad del programa.
 
 ### 💻 **Práctica**  
-👉 Editor: **[OnlineGDB]()**
+👉 Editor: https://www.onlinegdb.com/
 
 ---
 
@@ -256,7 +256,7 @@ Ejemplos del mundo real:
 - Ideal para manejar listas o colecciones simples.
 
 ### 💻 **Práctica**  
-👉 Editor: **[OnlineGDB]()**
+👉 Editor: https://www.onlinegdb.com/
 
 ---
 
@@ -279,7 +279,7 @@ Clases • Objetos • Métodos • Encapsulación • Arrays • Entrada/Salida
 - La organización del código importa más que la complejidad.
 
 ### 💻 **Práctica**  
-👉 Editor: **[OnlineGDB]()**
+👉 Editor: https://www.onlinegdb.com/
 
 ---
 
@@ -301,7 +301,7 @@ Se repasan buenas prácticas para programar en Java:
 - Java exige precisión: mayúsculas, minúsculas, llaves y punto y coma.
 
 ### 💻 **Práctica**  
-👉 Editor: **[OnlineGDB]()**
+👉 Editor: https://www.onlinegdb.com/
 
 ---
 
