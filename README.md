@@ -158,7 +158,7 @@ Ejemplo cotidiano:
 ---
 
 ## 6. Entrada/Salida Básica  
-**⏱️ Duración:** 10 minutos  
+**⏱️ Duración:** 04 - 05 minutos  
 
 ### 📝 Descripción  
 Aquí aprenderás cómo interactuar con el usuario mediante la consola usando la clase `Scanner`.  
