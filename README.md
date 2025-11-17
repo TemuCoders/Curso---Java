@@ -80,27 +80,28 @@ A continuación, el contenido oficial del curso con cada concepto explicado de f
 ---
 
 ## 4. 🔁 Estructuras de Control
-- Condicionales: `if`, `else if`, `else`.
-- `switch-case`.
-- Bucles: `for`, `while`, `do-while`.
-- Control del flujo: `break`, `continue`.
+- Condicionales: if, else.
+- Bucles: while.
+- Uso de condiciones booleanas.
 
 ---
 
 ## 5. 🔧 Métodos y Parámetros
 - ¿Qué es un método?
 - Declaración y llamada.
-- Valores de retorno.
-- Parámetros.
-- Sobrecarga básica.
-- Buenas prácticas (nombres, responsabilidades).
+- Valores de retorno: boolean.
+- Parámetros: int edad.
+- Responsabilidad única: método corto que verifica la edad.
 
 ---
 
 ## 6. ⌨️ Entrada/Salida Básica
-- Lectura de texto y números.
-- Validaciones simples.
-- Errores comunes en lectura.
+- Lectura con Scanner sobre System.in.
+- Lectura de texto: nextLine().
+- Lectura de números: nextInt().
+- Manejo del buffer: llamar a nextLine() después de nextInt() para consumir el salto de línea pendiente.
+- Cierre del recurso: sc.close() al finalizar.
+- Salidas por consola con System.out.println() / System.out.print().
 
 ---
 
