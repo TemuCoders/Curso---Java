@@ -259,7 +259,7 @@ Ejemplos del mundo real:
 ---
 
 ## 🏁 10. Miniproyecto Final + Mejores Prácticas  
-**⏱️ Duración:** 10 minutos  
+**⏱️ Duración:** 25 - 26 minutos  
 
 ### 📝 Descripción  
 En esta sección el estudiante integrará **todo lo aprendido en el curso** desarrollando un pequeño proyecto en Java basado en POO.  
