@@ -32,10 +32,8 @@ Cada lección incluye un video (enlace pendiente), una descripción y una práct
 | 6 |  Entrada/Salida | Uso de Scanner y lectura desde consola. | [Ver Video](https://youtu.be/ogBL7Oya0VE) |
 | 7 |  Introducción a la POO | Atributos, comportamientos, constructores. | [Ver Video](https://youtu.be/vXaH55684Zg) |
 | 8 |  Principios básicos de POO | Encapsulacion, getters, setters y uso de `private`. | [Ver Video](https://youtu.be/vInP84VNuJo) |
-| 10 |  Arrays y Cadenas | Uso de estructuras simples dentro de clases. | [Ver Video](https://youtu.be/G2E4PWDFcWk) |
-| 11 |  Miniproyecto | Aplicación final con POO. | [Ver Video]() |
-| 12 |  Mejores Prácticas | Limpieza de código y errores comunes. | [Ver Video]() |
-
+| 9 |  Arrays y Cadenas | Uso de estructuras simples dentro de clases. | [Ver Video](https://youtu.be/G2E4PWDFcWk) |
+| 10 |  Miniproyecto | Aplicación final con POO. | [Ver Video]() |
 ---
 
 # 🗂️ Repositorio del Proyecto
