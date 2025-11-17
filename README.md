@@ -32,9 +32,8 @@ Cada lección incluye un video (enlace pendiente), una descripción y una práct
 | 6 |  Entrada/Salida | Uso de Scanner y lectura desde consola. | [Ver Video]() |
 | 7 |  Introducción a la POO | Atributos, comportamientos, constructores. | [Ver Video]() |
 | 8 |  Principios básicos de POO | Encapsulacion, getters, setters y uso de `private`. | [Ver Video]() |
-| 10 |  Arrays y Cadenas | Uso de estructuras simples dentro de clases. | [Ver Video]() |
-| 11 |  Miniproyecto | Aplicación final con POO. | [Ver Video]() |
-| 12 |  Mejores Prácticas | Limpieza de código y errores comunes. | [Ver Video]() |
+| 9 |  Arrays y Cadenas | Uso de estructuras simples dentro de clases. | [Ver Video]() |
+| 10 |  Miniproyecto | Aplicación final con POO. | [Ver Video]() |
 
 ---
 
@@ -283,22 +282,39 @@ Clases • Objetos • Métodos • Encapsulación • Arrays • Entrada/Salida
 
 ---
 
-## 11. Mejores Prácticas y Errores Comunes  
-**⏱️ Duración:** 8–10 minutos  
+## 🏁 10. Miniproyecto Final + Mejores Prácticas  
+**⏱️ Duración:** 10 minutos  
 
 ### 📝 Descripción  
-Se repasan buenas prácticas para programar en Java:  
-- Nombres claros en variables y clases.  
-- Código limpio, ordenado y bien identado.  
-- Métodos cortos y específicos.  
-- Validaciones antes de usar datos.  
-- Errores comunes de principiantes y cómo evitarlos.
+En esta sección el estudiante integrará **todo lo aprendido en el curso** desarrollando un pequeño proyecto en Java basado en POO.  
+El enfoque no es crear algo complejo, sino **demostrar dominio real** de:
+
+- Clases y Objetos  
+- Atributos y Encapsulación  
+- Getters/Setters  
+- Métodos  
+- Arrays o Cadenas  
+- Entrada/Salida con Scanner  
+- Lógica básica y estructuras de control  
+
+Además, aprenderás a mejorar tu código aplicando buenas prácticas:
+
+- Nombres claros y consistentes  
+- Métodos cortos con una sola responsabilidad  
+- Uso correcto de modificadores (`private`, `public`)  
+- Validaciones antes de procesar datos  
+- Evitar errores comunes como:  
+  - No cerrar el `Scanner`  
+  - Confundir mayúsculas/minúsculas  
+  - No inicializar objetos  
+  - Acceder a atributos privados sin getters/setters  
 
 ### 🎯 Conclusiones Clave  
-- El estilo del código importa mucho.  
-- Más líneas no significa mejor programa.  
-- Siempre revisa tu lógica antes de ejecutar.  
-- Java exige precisión: mayúsculas, minúsculas, llaves y punto y coma.
+- Un programa completo requiere la unión lógica de varios conceptos.  
+- La Programación Orientada a Objetos facilita organizar mejor el código.  
+- La claridad del código importa más que su complejidad.  
+- Identar bien, nombrar bien y validar bien evita la mayoría de bugs.  
+- Programar es un proceso iterativo: prueba, falla, corrige y mejora.
 
 ### 💻 **Práctica**  
 👉 Editor: https://www.onlinegdb.com/
