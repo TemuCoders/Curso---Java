@@ -50,7 +50,7 @@ Todo el código del curso está organizado en carpetas por módulo.
 
 A continuación, el contenido oficial del curso con cada concepto explicado de forma progresiva.
 
-## 1. 🧭 Introducción a la Programación y Java  
+## 1.  Introducción a la Programación y Java  
 **⏱️ Duración:** 4–5 minutos  
 
 ### 📝 Descripción  
@@ -63,12 +63,12 @@ También se introduce el primer programa “Hola Mundo” usando un editor onlin
 - No necesitas instalar programas para empezar.  
 - Un programa imprime mensajes en pantalla usando `System.out.println()`.
 
-### 💻 **Empieza a programar**  
+###  **Empieza a programar**  
 👉 Editor: **[OnlineGDB]()**
 
 ---
 
-## 2. 🧩 Sintaxis Básica en Java  
+## 2.  Sintaxis Básica en Java  
 **⏱️ Duración:** 10–12 minutos  
 
 ### 📝 Descripción  
@@ -87,7 +87,7 @@ Se enseña a declarar, inicializar y asignar valores.
 
 ---
 
-## 3. ➕ Operadores y Expresiones  
+## 3.  Operadores y Expresiones  
 **⏱️ Duración:** 10 minutos  
 
 ### 📝 Descripción  
@@ -109,7 +109,7 @@ También se explica la precedencia de operadores, como en matemáticas.
 
 ---
 
-## 4. 🔁 Estructuras de Control  
+## 4.  Estructuras de Control  
 **⏱️ Duración:** 07–08 minutos  
 
 ### 📝 Descripción  
@@ -133,7 +133,7 @@ Ejemplos visuales:
 
 ---
 
-## 5. 🔧 Métodos y Parámetros  
+## 5. Métodos y Parámetros  
 **⏱️ Duración:** 09–10 minutos  
 
 ### 📝 Descripción  
@@ -159,7 +159,7 @@ Ejemplo cotidiano:
 
 ---
 
-## 6. ⌨️ Entrada/Salida Básica  
+## 6. Entrada/Salida Básica  
 **⏱️ Duración:** 10 minutos  
 
 ### 📝 Descripción  
@@ -182,7 +182,7 @@ Se explica:
 
 ---
 
-## 7. 🧱 Introducción a la POO  
+## 7. Introducción a la POO  
 **⏱️ Duración:** 10–11 minutos  
 
 ### 📝 Descripción  
@@ -208,7 +208,7 @@ Ejemplos cotidianos:
 
 ---
 
-## 8. 🔒 Principios Básicos de POO (Encapsulación)  
+## 8. Principios Básicos de POO (Encapsulación)  
 **⏱️ Duración:** 10–11 minutos  
 
 ### 📝 Descripción  
@@ -234,7 +234,7 @@ Ejemplo del mundo real:
 
 ---
 
-## 9. 📚 Arrays y Cadenas (Integrados con Objetos)  
+## 9. Arrays y Cadenas (Integrados con Objetos)  
 **⏱️ Duración:** 12–13 minutos  
 
 ### 📝 Descripción  
@@ -260,7 +260,7 @@ Ejemplos del mundo real:
 
 ---
 
-## 10. 🏗️ Miniproyecto Final  
+## 10. Miniproyecto Final  
 **⏱️ Duración:** 15–20 minutos  
 
 ### 📝 Descripción  
@@ -283,7 +283,7 @@ Clases • Objetos • Métodos • Encapsulación • Arrays • Entrada/Salida
 
 ---
 
-## 11. 🧹 Mejores Prácticas y Errores Comunes  
+## 11. Mejores Prácticas y Errores Comunes  
 **⏱️ Duración:** 8–10 minutos  
 
 ### 📝 Descripción  
@@ -307,15 +307,23 @@ Se repasan buenas prácticas para programar en Java:
 
 #  Resumen de la Elaboración en Equipo
 Universidad Peruana de Ciencias Aplicada
+
 Carrera de Ingeniería de Software
+
 Periodo 202502
+
 1ASI0729 Desarrollo de Aplicaciones Open Source
+
 NRC: 7377
+
 **Nombre del Equipo:** "Los TemuCoders"
+
 **Lider del Equipo:** Jeremy Alexander Quijada Magro
+
 **Integrantes del Equipo:** 
 - Franco Huang Liu
 - Ivan La Madrid Lozano
 - Arturo Saravia Huaricancha
+  
 **Fecha de Entrega:** 16/11/2015
 
